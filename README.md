@@ -1,1 +1,1 @@
-# Myntra-Analysis--wscube
+# Myntra-Analysis--WsCube
